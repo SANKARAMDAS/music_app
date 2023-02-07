@@ -1,6 +1,6 @@
 # music_app
 
-Simple a Music app based on HTML, CSS and JavaScript.
+A simple Music app based on HTML, CSS and JavaScript.
 
 Simply clone this project and run into your local browse.
 
